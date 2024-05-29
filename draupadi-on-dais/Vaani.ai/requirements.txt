@@ -1,0 +1,13 @@
+crewai
+groq
+pydantic
+crewai-tools
+langgraph
+langchain-community
+langchain-groq
+fastapi
+uvicorn[standard]
+pymongo[srv]
+python-dotenv
+selenium
+requests
